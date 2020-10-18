@@ -15,3 +15,7 @@ clone and cd into this repo
 2. `docker-compose up`
 
 Or push it to a docker hub and run it on a server !
+
+
+# HowTo Guide: Get FREE backup service for your database and storage files
+available under /guide
